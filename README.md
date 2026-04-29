@@ -42,10 +42,6 @@ Despues de crear la cuenta
 
 ![10](https://github.com/user-attachments/assets/57a37de1-9f3c-423f-baff-b93c628b6aaf)
 
-Ingresas datos despues de crear cuenta
-
-![11](https://github.com/user-attachments/assets/2f97c3a8-39c1-4b5e-9d01-ac25c3d0dbce)
-
 Recuperar contraseña y no existe cuenta
 
 ![12](https://github.com/user-attachments/assets/d56ac3eb-23b4-4381-961c-d0b0bbf32bac)
@@ -56,8 +52,14 @@ Recuperar contraseña y existe cuenta
 
 La cuenta se guarda en mongodb
 
-![14](https://github.com/user-attachments/assets/3fac347e-4801-4a15-9895-a8e9ee17fc55)
+![14](https://github.com/user-attachments/assets/f3001487-b814-442c-b03a-f65468b991b0)
+
+Ingresas datos despues de crear cuenta
+
+![11](https://github.com/user-attachments/assets/2f97c3a8-39c1-4b5e-9d01-ac25c3d0dbce)
 
 Despues de iniciar sesion te envia a la pagina de tareas
+
+Se vizualiza en el menu el usuario activo y al hacer clic desplega un menu
 
 ![16](https://github.com/user-attachments/assets/4e277bc1-0642-42f4-8abd-107deb552834)
