@@ -59,6 +59,7 @@ Ingresas datos despues de crear cuenta
 ![11](https://github.com/user-attachments/assets/2f97c3a8-39c1-4b5e-9d01-ac25c3d0dbce)
 
 Despues de iniciar sesion te envia a la pagina de tareas
+
 Se vizualiza en el menu el usuario activo y al hacer clic desplega un menu
 
 ![16](https://github.com/user-attachments/assets/4e277bc1-0642-42f4-8abd-107deb552834)
