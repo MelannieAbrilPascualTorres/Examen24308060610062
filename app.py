@@ -96,6 +96,14 @@ def logout():
     flash('Has cerrado sesión correctamente', 'info')
     return redirect(url_for('sesion'))
 
+@app.route('/perfil')
+def perfil():
+    return render_template('perfil.html')
+
+@app.route('/acercade')
+def acercade():
+    return render_template('acercade.html')
+
 # Ejemplo de uso
 def ejemplo_uso():
     # Inicializar gestor
