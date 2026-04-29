@@ -56,7 +56,7 @@ Recuperar contraseña y existe cuenta
 
 La cuenta se guarda en mongodb
 
-![14](https://github.com/user-attachments/assets/3fac347e-4801-4a15-9895-a8e9ee17fc55)
+![14](https://github.com/user-attachments/assets/f3001487-b814-442c-b03a-f65468b991b0)
 
 Despues de iniciar sesion te envia a la pagina de tareas
 
