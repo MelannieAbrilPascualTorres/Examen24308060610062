@@ -46,4 +46,4 @@ La cuenta se guarda en mongodb
 ![14](https://github.com/user-attachments/assets/3fac347e-4801-4a15-9895-a8e9ee17fc55)
 
 Despues de iniciar sesion te envia a la pagina de tareas
-![15](https://github.com/user-attachments/assets/19852dd5-5d7b-4a32-a968-c20e40f718b3)
+![16](https://github.com/user-attachments/assets/4e277bc1-0642-42f4-8abd-107deb552834)
