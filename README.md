@@ -63,3 +63,7 @@ Despues de iniciar sesion te envia a la pagina de tareas
 Se vizualiza en el menu el usuario activo y al hacer clic desplega un menu
 
 ![16](https://github.com/user-attachments/assets/4e277bc1-0642-42f4-8abd-107deb552834)
+
+Acerca de
+
+![17](https://github.com/user-attachments/assets/5747c334-e29a-4ae6-85bf-ec4a482e13b2)
