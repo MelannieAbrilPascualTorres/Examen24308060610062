@@ -1,0 +1,35 @@
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+}
+
+.card-1 {
+  background-color: #eed5ff;
+}
+
+.card-2 {
+  background-color: #bdb2ff;
+}
+
+.card-3 {
+  background-color: #7acec8;
+}
+
+.v {
+  background-color: #f4e9ff;
+}
+
+
+.btn-j1,
+.btn-j1:hover {
+  background-color: #21295c;
+  color: white;
+}
+
+.nav1 {
+    background-color: #21295c;
+}
