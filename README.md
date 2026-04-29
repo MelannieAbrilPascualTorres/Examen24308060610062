@@ -7,9 +7,11 @@ Correo: 24308060610062@cetis61.edu.mx
 ![Fotografia](https://github.com/user-attachments/assets/d5c4862c-cbf6-4e0a-8206-a033e8bb95cd)
 
 Inicia la aplicacion en el inicio de sesion
+
 ![1](https://github.com/user-attachments/assets/5afd842e-8c1f-462f-acb9-3b54e9574efb)
 
 Ingreso de los datos
+
 ![2](https://github.com/user-attachments/assets/b1a1ff90-0c45-48fb-a48b-133f6d0ae36a)
 
 Si tu correo no existe o ingresaste un dato incorrecto
